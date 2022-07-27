@@ -1,6 +1,6 @@
 {
-  "name": "atherdon-old-newsletter-js-outertemplate",
-  "version": "3.7.6",
+  "name": "lit-typography",
+  "version": "0.1.0",
   "description": "im trying to separate part of our code",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
@@ -56,6 +56,7 @@
     "atherdon-newsletter-js-layouts-misc": "^3.0.0",
     "atherdon-newsletter-js-layouts-typography": "^3.0.0",
     "email-template-object": "^0.2.0",
+    "lit-html": "^2.2.7",
     "lodash": "^4.17.21"
   },
   "optionalDependencies": {
